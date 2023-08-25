@@ -1,5 +1,5 @@
 # Overdose-Technologies
 
-Overdose Technologies is looking for contributors🧑‍💻 to work together 📢 
+Overdose Technologies is looking for Developers to contribute 🧑‍💻 this Organization.
 
-contact : rizmyabdulla@gmail.com
+contact : rizmyabdulla@odgroup.tech
