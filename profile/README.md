@@ -5,7 +5,7 @@
 - contact : rizmyabdulla@odgroup.tech  <br>
 - support : support@odgroup.tech
 
-### Upcoming Open Source Projects from ` Overdose Technologies `
+### Upcoming Open Source Projects 🔥 from ` Overdose Technologies `
 
 
 - Procode - Embed your Codes in any Applications 🚀
