@@ -8,5 +8,5 @@
 ### Upcoming Open Source Projects from ` Overdose Technologies `
 
 
-- Procode - procode - Embed your Codes in any Applications
-- Doc-tor - Documentation creator and Generator(w/AI) for Your Creative Product
+- Procode - Embed your Codes in any Applications 🚀
+- Doc-tor - Product Documentation creator and Generator 🚀(w/AI) for Your Creative Product 🔥
